@@ -9,10 +9,7 @@ print(var1, var2)
 
 del var1
 
-
 list = ["nihao", "woshi", "bill", "zainali", "jianguoni"]
-
-
 tinylist = [123, 'john']
 
 print(list)  # 输出完整列表
