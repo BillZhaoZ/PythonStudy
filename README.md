@@ -14,6 +14,7 @@ Python简介：
 
 
 Python 发展历史
+
         Python 是由 Guido van Rossum 在八十年代末和九十年代初，在荷兰国家数学和计算机科学研究所设计出来的。
         Python 本身也是由诸多其他语言发展而来的,这包括 ABC、Modula-3、C、C++、Algol-68、SmallTalk、Unix shell 和其他的脚本语言等等。
         像 Perl 语言一样，Python 源代码同样遵循 GPL(GNU General Public License)协议。
@@ -21,6 +22,7 @@ Python 发展历史
 
 
 Python 特点
+
         1.易于学习：Python有相对较少的关键字，结构简单，和一个明确定义的语法，学习起来更加简单。
         2.易于阅读：Python代码定义的更清晰。
         3.易于维护：Python的成功在于它的源代码是相当容易维护的。
