@@ -4,7 +4,6 @@
 
 
 Python简介：
-
         Python 是一个高层次的结合了解释性、编译性、互动性和面向对象的脚本语言。
         Python 的设计具有很强的可读性，相比其他语言经常使用英文关键字，其他语言的一些标点符号，它具有比其他语言更有特色语法结构。
         Python 是一种解释型语言： 这意味着开发过程中没有了编译这个环节。类似于PHP和Perl语言。
@@ -13,16 +12,14 @@ Python简介：
         Python 是初学者的语言：Python 对初级程序员而言，是一种伟大的语言，它支持广泛的应用程序开发，从简单的文字处理到 WWW 浏览器再到游戏。
 
 
-Python 发展历史
-
+Python 发展历史:
         Python 是由 Guido van Rossum 在八十年代末和九十年代初，在荷兰国家数学和计算机科学研究所设计出来的。
         Python 本身也是由诸多其他语言发展而来的,这包括 ABC、Modula-3、C、C++、Algol-68、SmallTalk、Unix shell 和其他的脚本语言等等。
         像 Perl 语言一样，Python 源代码同样遵循 GPL(GNU General Public License)协议。
         现在 Python 是由一个核心开发团队在维护，Guido van Rossum 仍然占据着至关重要的作用，指导其进展。
 
 
-Python 特点
-
+Python 特点:
         1.易于学习：Python有相对较少的关键字，结构简单，和一个明确定义的语法，学习起来更加简单。
         2.易于阅读：Python代码定义的更清晰。
         3.易于维护：Python的成功在于它的源代码是相当容易维护的。
