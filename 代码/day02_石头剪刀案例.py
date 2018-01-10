@@ -1,6 +1,7 @@
 import random
+
 # 机器人
-computer = random.randint(1,3)
+computer = random.randint(1, 3)
 
 # 人类
 people = int(input("请你出拳:1 石头 2 剪刀 3 布:"))
