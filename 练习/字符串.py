@@ -29,3 +29,4 @@ b = "python"
 print("a + b = " + a + b)
 print("a * b = " + a * 2)
 print("a[1] = " + a[1])
+print("h" in a)

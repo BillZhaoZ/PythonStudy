@@ -24,8 +24,10 @@ def find_card():
 def show_all_card():
     print("@" * 50)
     print("所有的名片信息如下:")
+
     for temp in cards:
         print(temp)
+
     print("@" * 50)
 
 
@@ -50,14 +52,15 @@ def add_card():
 
 
 def show_menue():
-    print("#" * 50)
+    print("#" * 10)
     print("____欢迎使用[名管理系统]____")
     print("1 新建名片")
     print("2 显示全部名片")
     print("3 查询某个人的信息")
-    print("#" * 50)
+    print("#" * 10)
 
     num = input("请输入你的选项:")
+
     if num == "1":
         add_card()
     elif num == "2":
