@@ -30,3 +30,20 @@ print("a + b = " + a + b)
 print("a * b = " + a * 2)
 print("a[1] = " + a[1])
 print("h" in a)
+print(a.capitalize())
+
+# 字符串格式化
+print("My name is %s and weight is %d kg!" % ('一江夜雨', 77))
+
+# 三重引号
+para_str = """this is a long string that is made up of several lines and non-printable characters such as
+TAB (\t) and they will show up that way when displayed.NEWLINEs within the string, whether explicitly given like
+this within the brackets [ \n ], or just a NEWLINE within the variable assignment will also show up.
+"""
+
+print(para_str)
+
+print("c:\\hahha")
+
+# 打印原始字符串
+print(r"c:\\hahha")
