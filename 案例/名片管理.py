@@ -7,11 +7,15 @@
 cards = []
 
 
-# 添加信息
 def add_card():
-    name = input("请输入姓名：")
-    age = input("请输入年龄：")
-    tel = input("请输入电话：")
+    """
+    添加信息
+    """
+    print("添加信息：")
+
+    name = input("    请输入姓名：")
+    age = input("     请输入年龄：")
+    tel = input("     请输入电话：")
 
     # 使用一个字典来标示一个人的详细信息
     card = {
@@ -22,7 +26,7 @@ def add_card():
 
     cards.append(card)
 
-    print("添加成功,这个人的信息是:")
+    print("添加成功,信息如下:")
     print(card)
 
 
@@ -60,6 +64,9 @@ def search_info():
 
 
 def card_system():
+    """
+    系统入口
+    """
     print("*" * 20)
     print("欢迎使用【精英名片管理系统】")
     print("功能如下：")
