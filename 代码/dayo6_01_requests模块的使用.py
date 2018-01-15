@@ -8,7 +8,7 @@ r = requests.get("https://www.lixinger.com/profile/599e31fbc4c455574556137d/stoc
 
 # # 编码
 # r.encoding = "utf-8"
-#
+
 # # 获取响应的数据
 # my_content = r.text
 
